@@ -3,7 +3,7 @@ let colors = [
     {
         id: 0,
         color: "yellow",
-        title: "Hyunjin",
+        title: "sheesh",
         description: "HyunJin (Hangul: 현진) is the second revealed member of LOONA and a member of its first sub-unit, LOONA 1/3. She was born as Kim Hyun-jin (Hangul: 김현진) on November 15, 2000 in Dunchon-dong, Gangdong District, Seoul, South Korea."
     },
     {
