@@ -9,7 +9,7 @@ let colors = [
     {
         id: 1,
         color: "green",
-        title: "Haseul",
+        title: "OHYEAHHHH",
         description: "HaSeul (Hangul: 하슬) is the third revealed member of LOONA and a member of its first sub-unit, LOONA 1/3. She was born as Cho Ha-seul (Hangul: 조하슬) on August 18, 1997, in Suncheon, South Jeolla Province, South Korea."
     }
 ]
